@@ -1,0 +1,33 @@
+body {
+  font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background: black;}
+
+#wrapper {
+  width: 960px;
+  margin: 10px auto;
+}
+/*short cut for comments is ctrl or commend slash*/
+h1{font-family: 'Luckiest Guy', cursive; color: gold;font-weight: 400}
+/*from google fonts*/
+/*font awesome has the stars and icons*/
+h3{color: gold; font-size: 125%}
+#summary {
+	color: blue
+}
+/*class with .*/
+.unicorn {
+	color: blue; font-style: oblique; font-family: monospace;
+}
+#experience{
+	big
+}
+#bike {
+	width: 250px; height: 200px; border: 25px solid purple; 
+}
+/*class can be named anything*/
+.test{
+	color: green; font-style: italic;
+}
+.bulls1 {color:gold; font-style: oblique; font-size: 100%}
+.jumbotron {background-color: white}
